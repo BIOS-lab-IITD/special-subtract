@@ -6,5 +6,4 @@ This is helpful in a simple image processing task to supress sttic information a
 
 ### Contact:  
 Prof. Manish Kumar  
-BIOS lab, IIT Delhi  
-kmanish@iitd.ac.in  
+[BIOS lab](https://bioslab.iitd.ac.in/), IIT Delhi (India)  
